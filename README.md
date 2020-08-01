@@ -14,7 +14,7 @@ Na aplicação web foi feito um tratamento com javascript e css para tornar o si
 
 ## Contribuição
 ```bash
-Fique a vontade para contribuir com o aplicativo.
+Fique a vontade para contribuir com o código.
 ```
 
 ## License
