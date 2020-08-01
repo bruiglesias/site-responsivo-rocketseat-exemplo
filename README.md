@@ -7,7 +7,8 @@ Na aplicação web foi feito um tratamento com javascript e css para tornar o si
 
 ## Preview Web
 
-<img src="https://github.com/bruiglesias/site-responsivo-rocketseat-exemplo/blob/master/image.PNG" width="50%"/>
+<img src="https://github.com/bruiglesias/site-responsivo-rocketseat-exemplo/blob/master/image.PNG" width="50%"/><img src="https://github.com/bruiglesias/site-responsivo-rocketseat-exemplo/blob/master/image2.PNG" width="50%"/>
+
 
 
 
